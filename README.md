@@ -14,3 +14,7 @@ essa ferramenta que faz todos os cálculos e simula muito bem investimentos fina
 - Cálculo de sujestão de investimento com estimativa de 30% do salário informado.
 - Estimativas de rendimentos em diferentes cenários.
 - Tenha todo o controle ao alcanse com facilidade, rapidez e confiança.
+
+# Desk Teste Imagem
+
+<img width="1204" height="1600" alt="1000246971" src="https://github.com/user-attachments/assets/bc8eb503-7204-4bae-b82d-02b466ac9e81" />
