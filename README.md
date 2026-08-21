@@ -5,8 +5,7 @@ Simulador de Investimentos em FIIs no Excel.
 
 ---
 
-Com as aulas que tive na plataforma da DIO e com todas as dicas, consegui executar com êxito
-essa ferramenta que faz todos os cálculos e simula muito bem investimentos financeiros.
+Consegui executar com êxito essa ferramenta que faz todos os cálculos e simula muito bem investimentos financeiros.
 
 # O que é a ferramenta?
 É uma planilha no Excel de simples de usabilidade e de grande eficácia, direta ao ponto sem complexidade.
