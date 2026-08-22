@@ -20,6 +20,8 @@ Consegui executar com êxito essa ferramenta que faz todos os cálculos e simula
 
 ---
 
-# Desk Teste Imagem
+# Visual
 
-<img width="1204" height="1600" alt="1000246971" src="https://github.com/user-attachments/assets/bc8eb503-7204-4bae-b82d-02b466ac9e81" />
+<img width="1600" height="859" alt="Jc_Invest_1" src="https://github.com/user-attachments/assets/6e13db1a-8547-4b22-91cf-8742479ecd34" />
+<img width="1600" height="859" alt="Jc_Invest_2" src="https://github.com/user-attachments/assets/50ca442d-4482-412b-bbd3-373362bef03f" />
+
